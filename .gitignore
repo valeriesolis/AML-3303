@@ -1,3 +1,10 @@
 .DS_Store
 myenv/
-Week 6 - Multithreading and Pandas and Polars/yellow_tripdata_2019-01.csvWeek 6 - Multithreading and Pandas and Polars/*.csv
+.venv/
+*/.venv/
+*/myenv/
+data/
+*/data/
+*.csv
+*.xlsx
+*.parquet

@@ -1,0 +1,15 @@
+# Core Libraries
+numpy
+pandas
+
+# Machine Learning & Modeling
+scikit-learn
+imbalanced-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+pathlib
